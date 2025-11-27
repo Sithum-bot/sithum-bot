@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sithum Gunasekara</h1>
-<h3 align="center">A passionate Here’s a polished and professional rewrite of your introduction: **Hello! I'm Sithum, an enthusiastic undergraduate student at Horizon Campus in Sri Lanka, currently pursuing a degree in Cyber Security.**frontend developer from India</h3>
+<h3 align="center">I'm Sithum, an enthusiastic undergraduate student at Horizon Campus in Sri Lanka, currently pursuing a degree in Cyber Security.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithum-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-bot" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithum-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-bot" /> </p>
 
+---
 - 📄 Know about my experiences [file:///D:/online%20corsese/new%20cv/New/sithum%20gunasekara.pdf%20(2).pdf](file:///D:/online%20corsese/new%20cv/New/sithum%20gunasekara.pdf%20(2).pdf)
 
 - ⚡ Fun fact **I got into cybersecurity because I love solving digital mysteries.**
