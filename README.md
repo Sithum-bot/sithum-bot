@@ -4,10 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sithum-bot&label=Profile%20views&color=0e75b6&style=flat" alt="sithum-bot" /> </p>
 
 ---
-- 📄 Know about my experiences [file:///D:/online%20corsese/new%20cv/New/sithum%20gunasekara.pdf%20(2).pdf](file:///D:/online%20corsese/new%20cv/New/sithum%20gunasekara.pdf%20(2).pdf)
-
 - ⚡ Fun fact **I got into cybersecurity because I love solving digital mysteries.**
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sithum gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithum gunasekara" height="30" width="40" /></a>
